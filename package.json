@@ -1,0 +1,14 @@
+{
+  "name": "rolldown-issue-repro",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^6.0.5",
+    "vite": "8.0.0",
+    "vue": "^3.5.30"
+  }
+}
